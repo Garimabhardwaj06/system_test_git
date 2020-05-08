@@ -1,1 +1,10 @@
+Please create  anew react app 
+and install the following dependencies in the same
+-- npm install bootstrap
+-- npm install prop-types
+-- npm install react-bootstrap
+-- npm install react-modal
+-- npm install react-sort-search-table
+-- npm install reactstrap
 
+Also replace the src folder with the one present in this folder.
